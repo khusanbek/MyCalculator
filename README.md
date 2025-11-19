@@ -1,4 +1,4 @@
-# H1 Basic Android App
+# Basic Android App
 
 This is a Basic Calculator App written in Android v, on Android Studio v, for beginner level demo purposes.
 
